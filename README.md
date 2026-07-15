@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I'm currently studying Diploma.
+I’m currently learning Web Developing & Python.
